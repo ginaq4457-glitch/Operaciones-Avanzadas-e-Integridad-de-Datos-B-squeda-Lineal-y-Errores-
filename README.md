@@ -1,2 +1,2 @@
 # Operaciones-Avanzadas-e-Integridad-de-Datos-B-squeda-Lineal-y-Errores-
-El siguiente espacio ha sido creado con el fin de organizar el trabajo previo al grupo F en el cual se plantearon diversas actividades que requieren del mismo
+El siguiente espacio ha sido creado con el fin de organizar el trabajo previo al grupo F en el cual se plantearon diversas actividades que requieren del mismo como:Implementar el algoritmo de búsqueda lineal en C++ para localizar elementos dentro de arreglos paralelos, y aplicar técnicas de validación de límites en ciclos para prevenir errores de desbordamiento de memoria (buffer overflow), garantizando la integridad de los datos durante la ejecución del programa.
